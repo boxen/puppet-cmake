@@ -1,4 +1,10 @@
-# This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+# Public: Installs CMake via homebrew
+#
+# Examples
+#
+#   include cmake
+class cmake {
+  include homebrew
+
+  package { 'cmake': }
 }
