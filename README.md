@@ -2,7 +2,7 @@
 
 Installs CMake.
 
-[![Build Status](https://travis-ci.org/tommetge/puppet-cmake.png?branch=master)](https://travis-ci.org/tommetge/puppet-cmake)
+[![Build Status](https://travis-ci.org/boxen/puppet-cmake.png?branch=master)](https://travis-ci.org/boxen/puppet-cmake)
 
 ## Usage
 
