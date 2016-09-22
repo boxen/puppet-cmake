@@ -1,15 +1,7 @@
 # CMake Puppet Module for Boxen
 
-Installs CMake.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/boxen/puppet-cmake.png?branch=master)](https://travis-ci.org/boxen/puppet-cmake)
-
-## Usage
-
-```puppet
-include cmake
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
